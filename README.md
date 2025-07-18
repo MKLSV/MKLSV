@@ -1,24 +1,4 @@
 
-<div id="header" align="center">
- <h1>Hi there 👋</h1>
-</div>
-
-
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
-
-### :man_technologist: About Me :
-
-My name is Matvey and I'am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
-
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
-
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
-
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-matvey-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mkolosov?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-
----
 
 ### :hammer_and_wrench: Languages and Tools :
 
